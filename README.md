@@ -17,8 +17,8 @@
   - [kaggle](https://www.kaggle.com/)的入门练习  
 
 接下来的目标：
-  - 看懂xgboost论文
-  - 看懂xgboost源码
+  - 看懂论文[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
+  - 看懂源码[xgboost](https://github.com/dmlc/xgboost)
   - 编码实现xgboost  
 
 就这些了，先选个目标，看看情况，算是敏捷开发的探针任务，但是好像有点大，走起。
