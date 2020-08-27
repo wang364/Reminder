@@ -13,7 +13,7 @@
 今天主要研究研究markdown怎么用，简单的使用参考着[Markdown速查表](https://www.markdown.xyz/cheat-sheet/)就可以了，够用就行，别让为自己服务的工具成为学习的负担。  
 前几天学的内容补记一下：
   - [TensorFlow教程](https://tensorflow.google.cn/tutorials)
-  - 吴恩达的[神经网络和深度学习](https://mooc.study.163.com/course/2001281002?tid=2403023003&_trace_c_p_k2_=347da90f15b246a68ca8ae210d779b7b#/info)
+  - 吴恩达的[《神经网络和深度学习》](https://mooc.study.163.com/course/2001281002?tid=2403023003&_trace_c_p_k2_=347da90f15b246a68ca8ae210d779b7b#/info)
   - [kaggle](https://www.kaggle.com/)的入门练习  
 
 接下来的目标：
