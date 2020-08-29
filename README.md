@@ -27,7 +27,7 @@
 开始阅读[Introduction to Boosted Trees](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 
 ***2020/08/29***
-阅读XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)  
+阅读[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)  
 
 ## 资料
 - [Introduction to Boosted Trees](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf) 
