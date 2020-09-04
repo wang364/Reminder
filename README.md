@@ -30,7 +30,12 @@
 阅读[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)  
 
 ***2020/08/31***  
-阅读英文论文不是很理解时，上网搜搜别人总结的中文的理解。  
+阅读英文论文不是很理解时，上网搜搜别人总结的中文的理解。
+
+***2020/09/04***   
+不理解二阶泰勒展开为什么可以提高准确性？另外如何支持其它弱学习器的？只有树的学习算法。
+下周研究一下彩票预测。
+  
 
 ## 资料
 - [Introduction to Boosted Trees](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf) 
