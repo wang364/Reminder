@@ -1,4 +1,5 @@
 ## Vim
+![vim graphical cheat sheet](/images/classic1.gif)
 cscope:https://stackoverflow.com/questions/41601225/how-to-fix-duplicate-cscope-is-it-a-better-way/44116924#44116924
 ## Lua
 Lua葡萄牙语，意为Moon。Lua脚本可以很容易的被C/C++ 代码调用，也可以反过来调用C/C++的函数，这使得Lua在应用程序中可以被广泛应用。不仅仅作为扩展脚本，也可以作为普通的配置文件，代替XML,ini等文件格式。利用脚本语言实现可扩展性。
