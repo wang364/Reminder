@@ -10,7 +10,9 @@ Yacc语法分析，Lex词法分析。
 The IEEE POSIX P1003.2 standard defines the functionality and requirements for both Lex and Yacc.
 ## UnitTest
 - Fake Function Framework  
-- Google Test
+- Google Test  
+## SPDX
+// SPDX-License-Identifier: GPL-2.0-only  
 
 ## Links
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
@@ -20,3 +22,4 @@ The IEEE POSIX P1003.2 standard defines the functionality and requirements for b
 - [Shell](https://www.shellscript.sh/index.html)
 - [fff](https://github.com/meekrosoft/fff)
 - [GoogleTest](https://github.com/google/googletest)
+- [SPDX License List](https://spdx.org/licenses/)
