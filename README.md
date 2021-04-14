@@ -9,7 +9,7 @@ Thrift是一种接口描述语言和二进制通讯协议，它被用来定义�
 Yacc语法分析，Lex词法分析。  
 The IEEE POSIX P1003.2 standard defines the functionality and requirements for both Lex and Yacc.
 ## UnitTest
-Fake Function Framework 
+Fake Function Framework  
 Google Test
 
 ## Links
