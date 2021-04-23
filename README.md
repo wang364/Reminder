@@ -21,6 +21,8 @@ top/kill/ps......
 Test management tool  
 ## tmux  
 terminal multiplexer  
+## git
+- [git stash](https://www.cnblogs.com/zndxall/archive/2018/09/04/9586088.html)
 
 ## Links
 - [Awesome(DataSet)](https://github.com/sindresorhus/awesome)
