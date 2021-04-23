@@ -23,6 +23,7 @@ Test management tool
 terminal multiplexer  
 
 ## Links
+- [awesome](https://github.com/sindresorhus/awesome)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Apache Thrift - Home](https://thrift.apache.org/)
 - [cscope](http://cscope.sourceforge.net/)
