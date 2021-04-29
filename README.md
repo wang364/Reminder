@@ -23,7 +23,7 @@ Test management tool
 ## git
 - [git stash](https://www.cnblogs.com/zndxall/archive/2018/09/04/9586088.html)  
 ## RPC
-- [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call)
+- [Remote procedure call(wiki)](https://en.wikipedia.org/wiki/Remote_procedure_call)
 - [Apache Thrift - Home](https://thrift.apache.org/)    
 Thrift是一种接口描述语言和二进制通讯协议，它被用来定义和创建跨语言的服务。它被当作一个远程过程调用（RPC）框架来使用，是由Facebook为“大规模跨语言服务开发”而开发的。  
 ## Links
