@@ -27,7 +27,7 @@ Test management tool
 - [Apache Thrift - Home](https://thrift.apache.org/)    
 Thrift是一种接口描述语言和二进制通讯协议，它被用来定义和创建跨语言的服务。它被当作一个远程过程调用（RPC）框架来使用，是由Facebook为“大规模跨语言服务开发”而开发的。  
 ## Links
-- [Free programming books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
+- [Free programming books中文](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [Awesome(DataSet)](https://github.com/sindresorhus/awesome)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [cscope](http://cscope.sourceforge.net/)
