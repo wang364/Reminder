@@ -6,6 +6,9 @@ Lua葡萄牙语，意为Moon。Lua脚本可以很容易的被C/C++ 代码调用�
 ## Yacc&Lex  
 Yacc语法分析，Lex词法分析。  
 The IEEE POSIX P1003.2 standard defines the functionality and requirements for both Lex and Yacc.
+## CI/CD  
+- [jfrog](https://jfrog.com/)  
+- [jenkins](https://www.jenkins.io/)  
 ## UnitTest
 - Fake Function Framework  
 - Google Test  
