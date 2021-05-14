@@ -1,6 +1,6 @@
 ## Awesome
 - [Awesome list](https://github.com/topics/awesome)  
-- [Awesome dataset)](https://github.com/sindresorhus/awesome)  
+- [Awesome dataset](https://github.com/sindresorhus/awesome)  
 - [Awesome viewer](https://awesome.digitalbunker.dev/)  
 ## Vim
 ![vim graphical cheat sheet](/classic1.gif)  
