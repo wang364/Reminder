@@ -41,6 +41,9 @@ Thrift是一种接口描述语言和二进制通讯协议，它被用来定义�
 - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php)  
 ## Python  
 - [Python Data Structures](https://realpython.com/python-data-structures/)  
+## Pentest
+- [Kali Linux](https://www.kali.org/)  
+- [Penetration Test](http://www.pentest-standard.org/)  
 ## Links
 - [Free programming books中文](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
