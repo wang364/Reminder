@@ -1,7 +1,7 @@
 ## ls  
 drwxr-xr-x  
 1. The first character shows the file type.  
-'- - Regular file.  
+\- - Regular file.  
 b - Block special file.  
 c - Character special file.  
 d - Directory.  
