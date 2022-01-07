@@ -7,8 +7,8 @@ The permissions defined by ACLs are a superset of the permissions specified by t
 | owner            | ACL_USER_OBJ  |
 | group            | ACL_MASK/ACL_GROUP_OBJ |
 | others           | ACL_OTHER_OBJ |
-## ls  
-drwxr-xr-x  
+## File permissions  
+drwxr-xr-x  (ls -l)  
 1. The first character shows the file type.  
 \- - Regular file.  
 b - Block special file.  
@@ -25,5 +25,5 @@ x - Permission to search/execute the file.
 s - setgid bit.  
 t - sticky bit.  
 ## chmod  
-## Linux capability  
+## Linux capabilities  
 ## linux users  
