@@ -1,3 +1,4 @@
+# File(Static)   
 ## ACL(Access Control Lists)  
 ACL define more fine-grained discretionary access rights for files and directories.  
 The permissions defined by ACLs are a superset of the permissions specified by the file permission bits.  
@@ -23,7 +24,6 @@ r - Permission to read the file.
 w - Permission to write to the file.  
 x - Permission to search/execute the file.  
 s - setgid bit.  
-t - sticky bit.  
-## chmod  
+t - sticky bit. 
+# Process/thread(dynamic)  
 ## Linux capabilities  
-## linux users  
