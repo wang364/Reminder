@@ -47,6 +47,8 @@ Thrift是一种接口描述语言和二进制通讯协议，它被用来定义�
 - [The Onion Router](https://en.wikipedia.org/wiki/Tor_(network)) 
 ## metaverse
 - [Roblox](https://www.roblox.com/)  
+## Math
+- [math notation](https://oi-wiki.org/math/notation/)  
 ## Links
 - [Free programming books中文](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
