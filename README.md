@@ -5,7 +5,8 @@
 - [Awesome dataset](https://github.com/sindresorhus/awesome)  
 - [Awesome viewer](https://awesome.digitalbunker.dev/) 
 ## [Numberphile](https://www.numberphile.com/)   
-- [Brilliant](https://brilliant.org/)  
+- [Brilliant](https://brilliant.org/) 
+- [OEIS](https://oeis.org/)   
 ## Vim
 cscope:https://stackoverflow.com/questions/41601225/how-to-fix-duplicate-cscope-is-it-a-better-way/44116924#44116924
 ## Lua
