@@ -1,3 +1,7 @@
+## 小学语文生字贴
+《小学1-6年级字帖练习下载(上册)》百度网盘资源免费下载  
+链接:https://pan.baidu.com/s/1uEuowM9PifP2Xykl6c7EVQ  
+提取码：paip  
 ## [chinesenewyear](https://chinesenewyear.net/)  
 ## [Buffer Overflow Exploit](https://dhavalkapil.com/blogs/Buffer-Overflow-Exploit/)  
 ## Awesome
