@@ -1,3 +1,4 @@
+## [ChatGLM](https://github.com/THUDM/ChatGLM-6B)  
 ## 小学语文生字贴
 《小学1-6年级字帖练习下载(上册)》百度网盘资源免费下载  
 链接:https://pan.baidu.com/s/1uEuowM9PifP2Xykl6c7EVQ  
