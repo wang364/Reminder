@@ -63,7 +63,9 @@ Thrift是一种接口描述语言和二进制通讯协议，它被用来定义�
 - [math notation](https://oi-wiki.org/math/notation/)  
 ## C language
 - [Json](https://github.com/zserge/jsmn)  
-Including samples.  
+Including samples.
+- [RedBlackTree](https://adroit-things.com/data-structures/red-black-trees/)
+
 ## Links
 - [Free programming books中文](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html)
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
